@@ -8,7 +8,7 @@ Original URL: [https://codepen.io/SuelemMartins/pen/emYoEdW](https://codepen.io/
 
 📸 **Imagem do Projeto:**  
 
-![Imagem do jogo Pokémon](./imagem-projeto-5.PNG)
+![Imagem do jogo Pokémon](./imagem-projeto-5.JPG)
 
 > Jogo desenvolvido durante a **Imersão Alura**!  
 > Um projeto emocionante com desafios e muita diversão. Combinando lógica e criatividade, este jogo é uma demonstração das habilidades adquiridas em **JavaScript**, **HTML**, **CSS** e **JSON**. 💻✨
